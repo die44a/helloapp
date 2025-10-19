@@ -11,4 +11,9 @@ class Greeting
     {
         Console.WriteLine("hello everyone white");
     }
+
+    private static void GreetBlack()
+    {
+        Console.WriteLine("hello black");
+    }
 }
